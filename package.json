@@ -1,0 +1,24 @@
+{
+  "name": "javascript-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "201flaviosilva",
+  "homepage": "https://gitlab.com/201flaviosilva/javascript-exercises#readme",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.17.9",
+    "jest": "^28.1.0"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/201flaviosilva/javascript-exercises.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/201flaviosilva/javascript-exercises/issues"
+  }
+}
