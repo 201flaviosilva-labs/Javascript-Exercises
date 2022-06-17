@@ -1,5 +1,5 @@
-// import checkTriangleType from "./exercise"; // Uncomment this line
-import checkTriangleType from "./solution"; // Comment this line
+// import {checkTriangleType} from "./exercise"; // Uncomment this line
+import { checkTriangleType } from "./solution"; // Comment this line
 
 describe("CheckTriangleType", () => {
 

@@ -8,6 +8,6 @@
  * @param {number[]} numbers - a array of numbers
  * @returns {number}
  */
-export default function average(numbers) {
+export function average(numbers) {
 	return;
 }

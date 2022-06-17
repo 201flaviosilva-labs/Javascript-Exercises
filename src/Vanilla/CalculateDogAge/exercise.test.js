@@ -1,5 +1,5 @@
-// import calculateDogAge from "./exercise"; // Uncomment this line
-import calculateDogAge from "./solution"; // Comment this line
+// import {calculateDogAge} from "./exercise"; // Uncomment this line
+import { calculateDogAge } from "./solution"; // Comment this line
 
 describe("CalculateDogAge", () => {
 	test("Age: 1, Weight: 9 -> 7", () => {

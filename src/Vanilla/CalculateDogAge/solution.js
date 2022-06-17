@@ -1,4 +1,4 @@
-export default function calculateDogAge(years, weight) {
+export function calculateDogAge(years, weight) {
 	let result = 0;
 	let remainingYears = years - 5;
 

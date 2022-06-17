@@ -12,6 +12,6 @@
  * @param {number} segment3 - the third segment
  * @returns {string}
  */
-export default function checkTriangleType(segment1, segment2, segment3) {
+export function checkTriangleType(segment1, segment2, segment3) {
 	return;
 }

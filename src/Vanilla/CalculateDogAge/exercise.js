@@ -43,6 +43,6 @@
  * @param {number} weight - the dog weight
  * @returns {number}
  */
-export default function calculateDogAge(years, weight) {
+export function calculateDogAge(years, weight) {
 	return;
 }

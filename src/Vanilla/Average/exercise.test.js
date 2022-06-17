@@ -1,5 +1,5 @@
-// import average from "./exercise"; // Uncomment this line
-import average from "./solution"; // Comment this line
+// import {average} from "./exercise"; // Uncomment this line
+import { average } from "./solution"; // Comment this line
 
 describe("Average", () => {
 	test("[] = 0", () => { expect(average([])).toBe(0); });
