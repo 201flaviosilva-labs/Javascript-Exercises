@@ -6,6 +6,7 @@
   "author": "201flaviosilva",
   "homepage": "https://gitlab.com/201flaviosilva/javascript-exercises#readme",
   "scripts": {
+    "jest": "jest",
     "test": "jest --watchAll",
     "jsdoc": "jsdoc -c jsdoc.conf.json"
   },
