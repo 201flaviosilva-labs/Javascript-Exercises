@@ -13,7 +13,7 @@ test:
     - main
 
 pages:
-  stage: deploy
+  stage: pages
   script:
     # - rm -rf public
     # - mkdir public
