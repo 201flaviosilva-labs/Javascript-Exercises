@@ -2,7 +2,7 @@ image: node:16
 
 stages:
   - test
-  - doc
+  - pages
 
 test:
   stage: test
@@ -12,8 +12,8 @@ test:
   only:
     - main
 
-doc:
-  stage: doc
+pages:
+  stage: deploy
   script:
     # - rm -rf public
     # - mkdir public
