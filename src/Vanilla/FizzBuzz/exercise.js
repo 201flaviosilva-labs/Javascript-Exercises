@@ -34,7 +34,7 @@
  * @example fizzBuzz(67); // ''
  * @example fizzBuzz(155); // ''
  * 
- * @param {number} number - 
+ * @param {number} number - number to check
  * @returns {string}
  */
 export function fizzBuzz(number) {
