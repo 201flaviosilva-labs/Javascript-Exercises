@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "author": "201flaviosilva",
-  "homepage": "https://gitlab.com/201flaviosilva/javascript-exercises#readme",
+  "homepage": "https://201flaviosilva.gitlab.io/javascript-exercises/",
   "scripts": {
     "jest": "jest",
     "test": "jest --watchAll",
