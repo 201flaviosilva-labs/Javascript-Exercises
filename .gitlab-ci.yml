@@ -9,6 +9,7 @@ test:
   script:
     - npm install
     - npm run jest
+    # Check this: https://docs.gitlab.com/ee/user/project/merge_requests/test_coverage_visualization.html
   only:
     - main
 
