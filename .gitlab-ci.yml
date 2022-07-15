@@ -24,6 +24,7 @@ pages:
     - npm run jsdoc
     - rm -rf public
     - cp -r ./docs public
+    - cp -r ./src/Dom public/Dom
 
   artifacts:
     paths:

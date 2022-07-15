@@ -28,6 +28,11 @@
           "title": "GitLab",
           "link": "https://gitlab.com/201flaviosilva/javascript-exercises",
           "target": "_blank"
+        },
+        {
+          "title": "Dom Exercises",
+          "link": "./Dom",
+          "target": "_blank"
         }
       ]
     }
