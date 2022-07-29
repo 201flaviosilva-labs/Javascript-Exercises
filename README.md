@@ -10,8 +10,8 @@ This a project to add some exercise/challenges of JavaScript :) https://201flavi
 
 ## Some inspirations
 - VanillaJavaScript: https://201flaviosilva.gitlab.io/VanillaJavaScript/Pages/GetStarted/index.html
-- 201flaviosilva/Python: https://bitbucket.org/201flaviosilva/python/src/master/src/Python/CursoEmVideo/Exercicios/
-- 201flaviosilva/Pascal: https://bitbucket.org/201flaviosilva/pascal/src/master/
-- 201flaviosilva/VisualBasic: https://bitbucket.org/201flaviosilva/visual-basic/src/master/Exercicios/
-- 201flaviosilva/php: https://bitbucket.org/201flaviosilva/php/src
-- 201flaviosilva/lazarus: https://bitbucket.org/201flaviosilva/lazarus/src/master/Exercicios/
+- 201flaviosilva/Python: https://bitbucket.org/201flaviosilva-labs/python/src/master/src/Python/CursoEmVideo/Exercicios/
+- 201flaviosilva/Pascal: https://bitbucket.org/201flaviosilva-labs/pascal/src/master/
+- 201flaviosilva/VisualBasic: https://bitbucket.org/201flaviosilva-labs/visual-basic/src/master/Exercicios/
+- 201flaviosilva/php: https://bitbucket.org/201flaviosilva-labs/php/src
+- 201flaviosilva/lazarus: https://bitbucket.org/201flaviosilva-labs/lazarus/src/master/Exercicios/

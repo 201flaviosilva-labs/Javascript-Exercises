@@ -1,15 +1,15 @@
 export function fibonacciSequence(terms) {
-	let n1 = 0;
-	let n2 = 1;
-	let next;
+	let lastLast = 0;
+	let last = 1;
 
-	const sequence = [n1, n2];
+	const sequence = [lastLast, last];
 
 	for (let i = 1; i <= terms; i++) {
-		next = n1 + n2;
-		n1 = n2;
-		n2 = next;
-		sequence.push(n2);
+		const current = lastLast + last;
+		lastLast = last;
+		last = current;
+		// console.log(current);
+		sequence.push(current);
 	}
 
 	return sequence;
