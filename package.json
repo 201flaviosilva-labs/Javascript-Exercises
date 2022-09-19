@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "author": "201flaviosilva",
-  "homepage": "https://201flaviosilva.gitlab.io/javascript-exercises/",
+  "homepage": "https://201flaviosilva.github.io/javascript-exercises/",
   "scripts": {
     "jest": "jest",
     "test": "jest --watchAll",
@@ -20,9 +20,9 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/201flaviosilva/javascript-exercises.git"
+    "url": "git+https://github.com/201flaviosilva/javascript-exercises.git"
   },
   "bugs": {
-    "url": "https://gitlab.com/201flaviosilva/javascript-exercises/issues"
+    "url": "https://github.com/201flaviosilva/javascript-exercises/issues"
   }
 }
